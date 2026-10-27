@@ -37,3 +37,9 @@ experience:
   - name: Caixin Media Company Ltd. VisLab
     position: Data Reporting Intern
     date: Aug. 2023 – Nov. 2023
+
+academic_service:
+  - role: Session Moderator
+    details: AI Support for Learning, Recall & Performance, GBA HCI Pre-CHI 2026
+  - role: Presenter
+    details: fast-forward talk and poster, ChinaVis 2024, Hong Kong, Jul. 2024

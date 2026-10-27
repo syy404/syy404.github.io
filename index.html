@@ -31,5 +31,16 @@ navbar_title: Home
         title='<i class="fas fa-star"></i> Selected Research Outputs'
         %}
         {% endif %}
+
+        {% if site.data.profile.academic_service %}
+        <div class="my-3 p-0 bg-white shadow-sm rounded-xl">
+            <h6 class="border-bottom border-gray p-3 mb-0">Academic Exchange &amp; Service</h6>
+            <ul class="list-unstyled p-3 mb-0">
+                {% for item in site.data.profile.academic_service %}
+                <li class="{% unless forloop.last %}mb-2{% endunless %}"><strong>{{ item.role }}</strong>, {{ item.details }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
     </div>
 </div>
