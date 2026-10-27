@@ -2,6 +2,7 @@
 title: "POReviewer: A Visualization System for Retrospective Public Opinion Analysis"
 date: 2026-01-01
 selected: true
+display_order: 3
 pub: "Journal of Visualization"
 pub_date: "2026"
 authors:

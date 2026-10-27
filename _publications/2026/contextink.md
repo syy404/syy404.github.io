@@ -2,10 +2,11 @@
 title: "ContextInk: Making Free-Form Annotations Reusable in AI-Supported Active Reading"
 date: 2026-10-27
 selected: true
+display_order: 1
 pub: "Manuscript under review"
 authors:
-  - Yantong Liu
-  - Xinyu Gai
+  - Yantong Liu*
+  - Xinyu Gai*
   - Mingyuan Qin
   - Mingming Fan
 abstract: >-
