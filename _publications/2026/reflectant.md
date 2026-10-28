@@ -2,7 +2,7 @@
 title: "Reflectant: Supporting Reflection on Multi-Source Information through Self-Representation in Multi-Agent Discussions"
 date: 2026-10-27
 year: 2026
-selected: true
+selected: false
 display_order: 5
 pub: "Manuscript under review"
 authors:
