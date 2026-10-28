@@ -3,6 +3,7 @@ title: "ContextInk: Making Free-Form Annotations Reusable in AI-Supported Active
 date: 2026-10-27
 selected: true
 display_order: 1
+cover: /assets/images/photos/contextink.png
 pub: "Manuscript under review"
 authors:
   - Yantong Liu*

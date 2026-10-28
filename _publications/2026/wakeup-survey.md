@@ -3,6 +3,7 @@ title: "A Survey of Advances in Wake-Up Systems: Toward Context Awareness, Multi
 date: 2026-10-27
 selected: true
 display_order: 2
+cover: /assets/images/photos/survey.png
 pub: "Revised manuscript under review"
 authors:
   - Zihong He*

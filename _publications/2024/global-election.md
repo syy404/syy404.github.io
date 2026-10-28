@@ -3,6 +3,7 @@ title: "A Global Election Situation Awareness System"
 date: 2024-07-01
 selected: false
 display_order: 6
+cover: /assets/images/photos/chinavis.png
 pub: "Poster presented at ChinaVis 2024, Hong Kong"
 authors:
   - Zhongxin Shan

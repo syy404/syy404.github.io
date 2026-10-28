@@ -3,6 +3,7 @@ title: "MindWeaver: Scaffolding Critical Thinking Through Structure-Mediated Hum
 date: 2026-10-27
 selected: true
 display_order: 4
+cover: /assets/images/photos/mindweaver.png
 pub: "Manuscript under review"
 authors:
   - Qing Shi
