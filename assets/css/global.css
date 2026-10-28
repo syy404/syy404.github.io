@@ -1,4 +1,8 @@
 @charset "utf-8";
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: "Product Sans", "Lato", sans-serif;
     font-weight: 400;
@@ -16,28 +20,31 @@ h4, h5, h6,
 }
 
 a[href], a[href]:hover, a[href]:focus, a[href]:visited {
-    color: #75716c !important;
+    color: #83a183 !important;
 }
 
-.text-profile-bio .bio-chip {
-    display: inline-block;
-    margin: 0.1rem 0.12rem;
-    padding: 0.12rem 0.55rem;
-    border: 1px solid #c9d0c7;
-    border-radius: 999px;
-    background-color: #e5e9e2;
-    color: #75716c !important;
+a[href]:not(.nav-link):not(.navbar-brand) {
+    --link-underline-color: #83a183;
+    background-image: linear-gradient(var(--link-underline-color), var(--link-underline-color)), linear-gradient(var(--link-underline-color), var(--link-underline-color));
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: 0 2px, 100% 1px;
+    text-decoration: none !important;
+    transition: background-size 0.25s ease;
+}
+
+a[href]:not(.nav-link):not(.navbar-brand):hover,
+a[href]:not(.nav-link):not(.navbar-brand):focus-visible {
+    background-size: 100% 2px, 100% 1px;
+}
+
+.text-profile-bio a.bio-work-link[href],
+.text-profile-bio a.bio-work-link[href]:hover,
+.text-profile-bio a.bio-work-link[href]:focus,
+.text-profile-bio a.bio-work-link[href]:visited {
+    color: #858d88 !important;
     font-size: 0.88em;
-    font-weight: 500;
-    line-height: 1.4;
-    text-decoration: none;
-    white-space: nowrap;
-}
-
-.text-profile-bio .bio-chip:hover,
-.text-profile-bio .bio-chip:focus {
-    background-color: #d9e0d7;
-    text-decoration: none;
+    font-style: italic;
 }
 
 .text-profile-bio .bio-list {
@@ -52,7 +59,18 @@ a.cv-link[href],
 a.cv-link[href]:hover,
 a.cv-link[href]:focus,
 a.cv-link[href]:visited {
-    color: #001d56 !important;
+    --link-underline-color: #2e7a73;
+    color: #2e7a73 !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+
+    a[href]:not(.nav-link):not(.navbar-brand) {
+        transition: none;
+    }
 }
 
 .publication-entry {

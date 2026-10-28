@@ -11,20 +11,20 @@ cv_link: /assets/files/Yantong%20Liu-CV.pdf
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>I am Yantong Liu (刘彦彤), an MPhil student in Computational Media and Arts at the Hong Kong University of Science and Technology (Guangzhou), advised by Prof. <a class="bio-chip" href="https://www.mingmingfan.com/" target="_blank" rel="noopener noreferrer">Mingming Fan</a> and Prof. <a class="bio-chip" href="https://cma.hkust-gz.edu.cn/faculty-regular/chen-liang/" target="_blank" rel="noopener noreferrer">Chen Liang</a>. Previously, I received a B.A. in Data Journalism from the Communication University of China.</p>
+  <p>I am Yantong Liu (刘彦彤), an MPhil student in Computational Media and Arts at the Hong Kong University of Science and Technology (Guangzhou), advised by Prof. <a href="https://www.mingmingfan.com/" target="_blank" rel="noopener noreferrer">Mingming Fan</a> and Prof. <a href="https://cma.hkust-gz.edu.cn/faculty-regular/chen-liang/" target="_blank" rel="noopener noreferrer">Chen Liang</a>. Previously, I received a B.A. in Data Journalism from the Communication University of China.</p>
   <p>My interdisciplinary background has enabled me to lead research across human–computer interaction, including:</p>
   <ul class="bio-list">
-    <li>Interaction design and conceptual frameworks for aligning human and AI expression across modalities <a class="bio-chip" href="/publications/#contextink">ContextInk</a> <a class="bio-chip" href="/publications/#wakeup-survey">Wake-Up Systems Survey</a></li>
-    <li>How AI-driven embodied systems participate in social and collaborative tasks <a class="bio-chip" href="/publications/#floating-robot">Floating Robot</a></li>
+    <li>Interaction design and conceptual frameworks for aligning human and AI expression across modalities (<a class="bio-work-link" href="#contextink">ContextInk</a>; <a class="bio-work-link" href="#wakeup-survey">Wake-Up Systems Survey</a>)</li>
+    <li>How AI-driven embodied systems participate in social and collaborative tasks (<a class="bio-work-link" href="/publications/#floating-robot">Floating Robot</a>)</li>
   </ul>
   <p>Before that, I produced data journalism projects and reports on:</p>
   <ul class="bio-list">
-    <li>Visual analysis of public opinion and its social impact <a class="bio-chip" href="/publications/#poreviewer">POReviewer</a> <a class="bio-chip" href="/publications/#global-election">Election Awareness</a></li>
-    <li>In-depth reporting on recommendation algorithms and educational technology <a class="bio-chip" href="/publications/#recommendation-algorithm">Recommendation Algorithms</a> <a class="bio-chip" href="/publications/#education-devices">Educational Devices</a></li>
+    <li>Visual analysis of public opinion and its social impact (<a class="bio-work-link" href="#poreviewer">POReviewer</a>; <a class="bio-work-link" href="/publications/#global-election">Election Awareness</a>)</li>
+    <li>In-depth reporting on recommendation algorithms and educational technology (<a class="bio-work-link" href="/publications/#recommendation-algorithm">Recommendation Algorithms</a>; <a class="bio-work-link" href="/publications/#education-devices">Educational Devices</a>)</li>
   </ul>
   <p>I have also reported on local economies, child protection, and public health.</p>
   <p>My research interests have always centered on AI in society and the people who shape and are shaped by AI.</p>
-  <p>I am actively seeking PhD opportunities starting in 2027 and am open to collaboration. If you see a connection, <a class="bio-chip" href="mailto:yliu226@connect.hkust-gz.edu.cn">let's have a chat</a>!</p>
+  <p>I am actively seeking PhD opportunities starting in 2027 and am open to collaboration. If you see a connection, <a href="mailto:yliu226@connect.hkust-gz.edu.cn">let's have a chat</a>!</p>
 
 portrait_url: /assets/images/photos/sysy.jpg
 portrait_caption: "Yantong Liu"
