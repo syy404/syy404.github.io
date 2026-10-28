@@ -1,13 +1,26 @@
 @charset "utf-8";
 body {
-    font-family: "Lato", sans-serif;
+    font-family: "Product Sans", "Lato", sans-serif;
     font-weight: 400;
     padding-top: 5.0rem;
 }
 
-h1, h2, h3, h4, h5, h6,
-.h1, .h2, .h3, .h4, .h5, .h6 {
+h1, h2, h3,
+.h1, .h2, .h3 {
     font-weight: 700;
+}
+
+h4, h5, h6,
+.h4, .h5, .h6 {
+    font-weight: 500;
+}
+
+a[href], a[href]:hover, a[href]:focus, a[href]:visited {
+    color: #75716c !important;
+}
+
+.selected-research-heading {
+    font-size: 1rem;
 }
 
 .card {
@@ -89,7 +102,7 @@ div.lazy {
 }
 
 .email-text {
-    font-family: Source Code Pro, monospace;
+    font-family: inherit;
 }
 
 .carousel button {
