@@ -1,13 +1,13 @@
 ---
 layout: default
-title : Publications and Manuscripts
-navbar_title: Publications
+title : Publications and Reports
+navbar_title: Publications and Reports
 permalink: /publications/
 body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
-{% assign pubs_by_year = site.publications | sort: "display_order" | group_by_exp: "item", "item.date | date: '%Y'" %}
+{% assign pubs_by_year = site.publications | sort: "display_order" | group_by: "year" %}
 
 <div class="row">
     <div class="col-12 col-lg-10">

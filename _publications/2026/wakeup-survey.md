@@ -1,6 +1,7 @@
 ---
 title: "A Survey of Advances in Wake-Up Systems: Toward Context Awareness, Multimodality, and Personalization"
 date: 2026-10-27
+year: 2026
 selected: true
 display_order: 2
 cover: /assets/images/photos/survey.png

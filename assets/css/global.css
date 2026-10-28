@@ -19,6 +19,46 @@ a[href], a[href]:hover, a[href]:focus, a[href]:visited {
     color: #75716c !important;
 }
 
+.text-profile-bio .bio-chip {
+    display: inline-block;
+    margin: 0.1rem 0.12rem;
+    padding: 0.12rem 0.55rem;
+    border: 1px solid #c9d0c7;
+    border-radius: 999px;
+    background-color: #e5e9e2;
+    color: #75716c !important;
+    font-size: 0.88em;
+    font-weight: 500;
+    line-height: 1.4;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.text-profile-bio .bio-chip:hover,
+.text-profile-bio .bio-chip:focus {
+    background-color: #d9e0d7;
+    text-decoration: none;
+}
+
+.text-profile-bio .bio-list {
+    padding-left: 1.4rem;
+}
+
+.text-profile-bio .bio-list li {
+    margin-bottom: 0.35rem;
+}
+
+a.cv-link[href],
+a.cv-link[href]:hover,
+a.cv-link[href]:focus,
+a.cv-link[href]:visited {
+    color: #001d56 !important;
+}
+
+.publication-entry {
+    scroll-margin-top: 5.5rem;
+}
+
 .selected-research-heading {
     font-size: 1rem;
 }

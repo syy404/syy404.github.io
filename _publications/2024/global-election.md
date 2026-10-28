@@ -1,8 +1,9 @@
 ---
 title: "A Global Election Situation Awareness System"
 date: 2024-07-01
+year: 2024
 selected: false
-display_order: 6
+display_order: 7
 cover: /assets/images/photos/chinavis.png
 pub: "Poster presented at ChinaVis 2024, Hong Kong"
 authors:
