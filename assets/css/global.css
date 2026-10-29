@@ -4,19 +4,14 @@ html {
 }
 
 body {
-    font-family: "Product Sans", "Lato", sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 400;
     padding-top: 5.0rem;
 }
 
-h1, h2, h3,
-.h1, .h2, .h3 {
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 700;
-}
-
-h4, h5, h6,
-.h4, .h5, .h6 {
-    font-weight: 500;
 }
 
 a[href], a[href]:hover, a[href]:focus, a[href]:visited {
@@ -45,11 +40,6 @@ a[href]:not(.nav-link):not(.navbar-brand):focus-visible {
     color: #858d88 !important;
     font-size: 0.88em;
     font-style: italic;
-}
-
-.text-profile-bio a.bio-contact-link[href] {
-    background-image: none !important;
-    text-decoration: none !important;
 }
 
 .text-profile-bio .bio-list {
@@ -82,10 +72,6 @@ a.cv-link[href]:visited {
     scroll-margin-top: 5.5rem;
 }
 
-.selected-research-heading {
-    font-size: 1rem;
-}
-
 .card {
     border-radius: 0.8rem!important;
 }
@@ -116,6 +102,18 @@ a.cv-link[href]:visited {
 .text-profile-bio {
     /* font-family: "Raleway"; */
     font-weight: 400;
+}
+
+@media (min-width: 992px) {
+    .experience-column::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 1.25rem;
+        bottom: 1.25rem;
+        width: 1px;
+        background-color: #dee2e6;
+    }
 }
 
 .navbar {
@@ -176,7 +174,7 @@ div.lazy {
 }
 
 .email-text {
-    font-family: inherit;
+    font-family: Source Code Pro, monospace;
 }
 
 .carousel button {
