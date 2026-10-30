@@ -104,6 +104,22 @@ a.cv-link[href]:visited {
     font-weight: 400;
 }
 
+.text-profile-bio blockquote.bio-quote {
+    margin: 1.25rem 0;
+    padding: 0.1rem 0 0.1rem 1rem;
+    border-left: 3px solid #cfd9d3;
+    color: #5c6b64;
+    font-style: normal;
+}
+
+.text-profile-bio blockquote.bio-quote p {
+    margin-bottom: 0.75rem;
+}
+
+.text-profile-bio blockquote.bio-quote p:last-child {
+    margin-bottom: 0;
+}
+
 @media (min-width: 992px) {
     .experience-column::before {
         content: "";

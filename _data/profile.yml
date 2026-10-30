@@ -23,8 +23,10 @@ short_bio: >-
     <li>In-depth reporting on recommendation algorithms and educational technology (<a class="bio-work-link" href="/publications/#recommendation-algorithm">Recommendation Algorithms</a>; <a class="bio-work-link" href="/publications/#education-devices">Educational Devices</a>)</li>
   </ul>
   <p>Driven by my interest in public issues, I have also contributed to several in-depth reporting projects covering local economies, child protection, and public health.</p>
-  <p><em>Here is a brief statement why I have strong self-motivation to cross the boundaries of disciplines:</em></p>
-  <p>My research interests lie in AI in Society: how people interact with information reshaped by AI now and in the future. In my view, I consider a research problem about technologies that affect society to be an intersect in lines of different disciplines, and approaching the same problem from different disciplinary perspectives, whether in computer science or sociology, can reveal new insights. My vision is to connect the dots across disciplines and build a more comprehensive picture of the problem.</p>
+  <blockquote class="bio-quote">
+    <p>Here is a brief statement why I have strong self-motivation to cross the boundaries of disciplines:</p>
+    <p>My research interests lie in AI in Society, and how people interact with information reshaped by AI now and in the future. In my view, I consider the research problem related to technologies that affect society to be an intersect in lines of different disciplines. Approaching the same problem from different disciplinary perspectives would reveal insight closer to the problem, with the knowledge of both computer science and sociology. My research vision is to connect the dots across different disciplines and build a more comprehensive picture of the problem.</p>
+  </blockquote>
   <p>I am actively seeking PhD opportunities starting in 2027 and open to collaboration. If you see a connection, let's have a chat!</p>
 
 portrait_url: /assets/images/photos/sysy.jpg
