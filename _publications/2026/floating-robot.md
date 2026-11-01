@@ -3,7 +3,7 @@ title: "Understanding Human Collaboration with a Soft Floating Robot during Indo
 year: 2026
 selected: false
 display_order: 6
-cover: /assets/images/photos/robot.png
+cover: https://sys-picgogo.oss-cn-beijing.aliyuncs.com/robot.png
 pub: "Research project"
 authors:
   - Yantong Liu

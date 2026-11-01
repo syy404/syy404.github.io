@@ -4,7 +4,7 @@ date: 2026-10-27
 year: 2026
 selected: true
 display_order: 4
-cover: /assets/images/photos/mindweaver.png
+cover: https://sys-picgogo.oss-cn-beijing.aliyuncs.com/mindweaver.png
 pub: "Manuscript under review"
 authors:
   - Qing Shi

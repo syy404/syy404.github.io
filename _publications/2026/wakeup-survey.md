@@ -4,7 +4,7 @@ date: 2026-10-27
 year: 2026
 selected: true
 display_order: 2
-cover: /assets/images/photos/survey.png
+cover: https://sys-picgogo.oss-cn-beijing.aliyuncs.com/survey.png
 pub: "Revised manuscript under review"
 authors:
   - Zihong He*

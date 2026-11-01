@@ -4,7 +4,7 @@ date: 2026-10-27
 year: 2026
 selected: true
 display_order: 1
-cover: /assets/images/photos/contextink.png
+cover: https://sys-picgogo.oss-cn-beijing.aliyuncs.com/contextink.png
 pub: "Manuscript under review"
 authors:
   - Yantong Liu*

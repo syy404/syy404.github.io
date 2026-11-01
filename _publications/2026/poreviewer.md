@@ -4,7 +4,7 @@ date: 2026-01-01
 year: 2026
 selected: true
 display_order: 3
-cover: /assets/images/photos/poviewer.png
+cover: https://sys-picgogo.oss-cn-beijing.aliyuncs.com/poviewer.png
 pub: "Journal of Visualization"
 pub_date: "2026"
 authors:
