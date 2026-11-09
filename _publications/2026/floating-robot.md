@@ -4,7 +4,7 @@ year: 2026
 selected: false
 display_order: 6
 cover: https://sys-picgogo.oss-cn-beijing.aliyuncs.com/robot.png
-pub: "Research project"
+pub: "MPhil Thesis Project"
 authors:
   - Yantong Liu
 abstract: >-

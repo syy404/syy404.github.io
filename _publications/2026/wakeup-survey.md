@@ -5,7 +5,7 @@ year: 2026
 selected: true
 display_order: 2
 cover: https://sys-picgogo.oss-cn-beijing.aliyuncs.com/survey.png
-pub: "Revised manuscript under review"
+pub: "Accepted by Machine Intelligence Research"
 authors:
   - Zihong He*
   - Yantong Liu*
